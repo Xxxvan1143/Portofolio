@@ -15,6 +15,7 @@ section::before {
     left: -30px;
 }
 
+
 .btn.button {
     border: 3px solid black;
     border-radius: 24px;
@@ -101,7 +102,7 @@ section::before {
     align-items: center;
     justify-content: center;
     font-weight: 500;
-    font-size: 24px;
+    font-size: 27px;
 }
 
 #work-1 {
@@ -109,7 +110,7 @@ section::before {
 }
 
 #work-1:hover::after{
-    content: 'Web Project';
+    content: 'Web Database';
 }
 
 #work-2 {
@@ -117,7 +118,7 @@ section::before {
 }
 
 #work-2:hover::after{
-    content: 'Software Project';
+    content: 'Absence Application';
 }
 
 #work-3 {
@@ -125,7 +126,7 @@ section::before {
 }
 
 #work-3:hover::after{
-    content: 'Software Project';
+    content: 'Web Company Profile';
 }
 
 .contact {
